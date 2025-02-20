@@ -1,3 +1,4 @@
+-- アルゴリズムと数学　演習問題集 004 - Product of 3 Integers
 import Data.List.Split
 
 main :: IO ()

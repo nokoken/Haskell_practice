@@ -1,3 +1,4 @@
+-- アルゴリズムと数学　演習問題集 005 - Modulo 100
 import Data.List.Split
 
 main :: IO()

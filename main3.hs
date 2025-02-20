@@ -1,3 +1,4 @@
+-- アルゴリズムと数学　演習問題集 003 - Sum of N Integers
 import Data.List.Split
 
 main :: IO ()

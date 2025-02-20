@@ -1,3 +1,4 @@
+--  ABC150 A - 500 Yen Coins
 import Data.List.Split
 
 main :: IO ()

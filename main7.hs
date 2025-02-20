@@ -1,3 +1,4 @@
+-- アルゴリズムと数学　演習問題集 007 - Number of Multiples 1
 import Data.List.Split
 
 isans :: Int -> Int -> Int -> Int

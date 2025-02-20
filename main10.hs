@@ -1,3 +1,4 @@
+-- ABC144 A - 9x9
 import Data.List.Split
 
 main :: IO ()

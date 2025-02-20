@@ -1,3 +1,4 @@
+-- ABC392 A - Shuffled Equation
 import Data.List.Split
 
 main :: IO ()

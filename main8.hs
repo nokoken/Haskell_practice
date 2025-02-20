@@ -1,3 +1,4 @@
+-- アルゴリズムと数学　演習問題集 008 - Brute Force 1
 import Data.List.Split
 
 ans :: Int -> Int -> Int
